@@ -28,7 +28,6 @@ The project focuses on:
 
 ## 🛠️ Tools & Technologies
 
-- **Figma / Design Tool**  
 - **UI/UX Principles**  
 - **Layout & Grid Systems**  
 

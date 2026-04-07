@@ -48,17 +48,17 @@ Business_Homepage_UI_Design/
 
 - Designing real-world business layouts  
 - Improving UI/UX thinking  
-- Structuring pages بشكل احترافي  
+- Structuring pages
 - الاهتمام بالتفاصيل في التصميم  
 
 ---
 
 ## 📸 Preview
 
-You can explore the design داخل الريبو أو من خلال الصور المرفقة.
+You can explore the design
 
 ---
 
 ## ⭐ Final Note
 
-This project is part of my journey in becoming a professional **UI/UX Designer** and **Frontend Developer** 🚀
+This project is part of my journey in becoming a professional **Frontend Developer** 🚀

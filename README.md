@@ -1,6 +1,6 @@
 # 💼 Business Homepage UI Design
 
-A modern and clean **business homepage UI design** focused on delivering a professional look and smooth user experience.
+A modern and clean **business homepage UI design** focused on delivering a professional look and smooth experience.
 
 ---
 
